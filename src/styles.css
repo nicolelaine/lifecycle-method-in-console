@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 50vh;
+  margin: 10px auto;
+  max-width: 400px;
+}
+
+input {
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 20px;
+}
